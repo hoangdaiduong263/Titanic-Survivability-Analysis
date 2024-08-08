@@ -12,6 +12,7 @@ The dataset titanic.csv contains multiple observations and several variables, ea
 - Siblings/Spouses Aboard: Number of siblings/spouses aboard the Titanic.
 - Parents/Children Aboard: Number of parents/children aboard the Titanic.
 - Fare: Passenger fare.
+
 **2. Objective:**
 
 This analysis aims to identify the key determinants of survivability on the Titanic using logistic regression. By understanding which factors influenced survival, we can gain insights into the characteristics and behaviors that played a role during the disaster.
